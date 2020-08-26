@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pic"/>
+    <qresource prefix="/">
+        <file>cad/cfg.json</file>
+        <file>cad/c1.png</file>
+        <file>cad/c2.png</file>
+        <file>cad/c3.png</file>
+        <file>cad/c4.png</file>
+        <file>cad/c5.png</file>
+        <file>cad/c6.png</file>
+        <file>cad/defaut.png</file>
+    </qresource>
+</RCC>
